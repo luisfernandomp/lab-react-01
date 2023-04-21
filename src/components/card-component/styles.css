@@ -1,0 +1,12 @@
+.card {
+  height: 84%;
+  width: 84%;
+  max-width: 868px;
+  background-color: #1c232d;
+  border-radius: 26px;
+  padding: 52px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 22px;
+}

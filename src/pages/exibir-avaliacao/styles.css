@@ -1,0 +1,25 @@
+.container-steps {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0 10px 0;
+}
+
+.avaliation {
+  color: #ffffff;
+}
+
+.avaliation h1 {
+  font-size: 1.35em;
+  font-weight: 800;
+  margin-top: 10px;
+}
+
+.avaliation p {
+  font-size: 0.9em;
+  font-weight: 400;
+  line-height: 1.8;
+  margin-top: 16px;
+  color: #9197a3;
+}

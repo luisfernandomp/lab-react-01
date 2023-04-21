@@ -1,0 +1,19 @@
+.button-radius {
+  border: 0;
+  width: 54px;
+  height: 54px;
+  text-align: center;
+  border-radius: 100%;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}
+
+.icon-image {
+  height: 20px;
+  width: 20px;
+  object-fit: contain;
+}
